@@ -1,0 +1,6 @@
+export const BOOKS_REPOSITORY = Symbol('BOOKS_REPOSITORY');
+export const AUTHORS_REPOSITORY = Symbol('AUTHORS_REPOSITORY');
+
+export const NOTIFICATIONS_SERVICE = Symbol('NOTIFICATION_SERVICE');
+
+export const AUTH_SERVICE = Symbol('AUTH_SERVICE');
